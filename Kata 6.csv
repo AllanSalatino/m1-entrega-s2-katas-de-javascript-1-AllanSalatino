@@ -1,0 +1,6 @@
+i,i--,i>=1,evenBackwards.push(i),return evenBackwards
+20,-,20>=1,adiciona 20,[20]
+20,-1,19>=1,adiciona 19,"[20, 19]"
+19,-1,18>=1,adiciona 18,"[20, 19, 18]"
+18,-1,17>=1,adiciona 17,"[20, 19, 18, 17]"
+17,-1,16>=1,adiciona 16,"[20, 19, 18, 17, 16]"

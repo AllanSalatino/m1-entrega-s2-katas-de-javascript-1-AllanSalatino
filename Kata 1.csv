@@ -1,0 +1,6 @@
+i,i++,i<=20 = true,numbers.push(i),return numbers
+1,,1<=20 = true,adiciona 1,[1]
+1,+1,2<=20 = true,adiciona 2,"[1, 2]"
+2,+1,3<=20 = true,adiciona 3,"[1, 2, 3]"
+3,+1,4<=20 = true,adiciona 4,"[1, 2, 3, 4]"
+4,+1,5<=20 = true,adiciona 5,"[1, 2, 3, 4, 5]"

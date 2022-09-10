@@ -1,0 +1,6 @@
+i,i++,resultMult<100,resultMult = (i*x),multiples.push(resultMult),return multiples = [ ]
+1,-,0<100,1x5=5,adiciona 5,[5]
+1,+1,5<100,2x5=10,adiciona 10,"[5, 10]"
+2,+1,10<100,3x5=15,adiciona 15,"[5, 10, 15]"
+3,+1,15<100,4x5=20," adiciona 20","[5, 10, 15, 20]"
+4,+1,20<100,5x5=25,adiciona 25,"[5, 10, 15, 20, 25]"

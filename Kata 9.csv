@@ -1,0 +1,6 @@
+i,i++,resultMult<100,resultMult = (x*i),multiplesBackwards.unshifit(resultMult),return multiplesBackwards
+1,,0<100,5*1=5,adiciona 5,[5]
+1,+1,5<100,5*2=10,adiciona 10,"[10, 5]"
+2,+1,10<100,5*3=15,adiciona 15,"[15, 10, 5]"
+3,+1,15<100,5*4=20,adiciona 20,"[20 , 15, 10, 5]"
+4,+1,20<100,5*5=25,adiciona 25,"[25, 20, 15, 10, 5]"
